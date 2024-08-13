@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-- 👋 Hi, I’m @olllayor
+- 👋 Hi, I’m [@olllayor](https://github.com/olllayor/)
 
 ## About Me
 I'm a passionate **Software Engineer** with a solid background in **Python** and **Django**. I have a B.Sc. in Computer Engineering from Turin Polytechnic University in Tashkent and experience in various domains, including IoT Project Design, Firmware Development, and containerization.
