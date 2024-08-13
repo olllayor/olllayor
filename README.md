@@ -15,13 +15,13 @@ I'm a passionate **Software Engineer** with a solid background in **Python** and
 
 ## Projects
 
-### [Online Exam Portal](#)
+### [Online Exam Portal](https://github.com/olllayor/didattica)
 - Developed a full-featured online exam portal with user management and question handling.
 
-### [Telegram Bots](#)
+### [Telegram Bots](https://github.com/olllayor/movie_scrape_bot)
 - Created various Telegram bots for automation and user interaction.
 
-### [Chess Tournament Management System](#)
+### [Chess Tournament Management System](https://github.com/olllayor/chess-tournament)
 - Designed and implemented a system for managing chess tournaments, including player and match management.
 
 ## Experience
