@@ -37,7 +37,7 @@ I'm a passionate **Software Engineer** with a solid background in **Python** and
 ## Contact
 
 - **Email:** [gmail@ollayor.com](mailto:gmail@ollayor.com)
-- **LinkedIn:** [Lnkedin](https://www.linkedin.com/in/olllayor/)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/olllayor/)
 - **Telegram:** [Telegram](https://t.me/olllayor/)
 - **X | Twitter:** [Twitter](https://x.com/olllayor/)
 
