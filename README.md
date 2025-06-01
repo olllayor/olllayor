@@ -1,9 +1,3 @@
-**Revising README for balance and fun**
-
-The user wants a README that's realistic but also fun and engaging. I'll tone
-
-Thought for a couple of seconds
-
 ```markdown
 # Welcome to My GitHub Profile!
 
