@@ -1,4 +1,3 @@
-```markdown
 # Welcome to My GitHub Profile!
 
 - 👋 Hey there, I’m [@olllayor](https://github.com/olllayor) — a software engineer who loves solving problems without turning everything into a buzzword salad.
@@ -84,4 +83,3 @@ I’m a **Software Engineer** who enjoys getting my hands dirty with code (and o
 
 ## Let’s Build Something Real
 If you’re into practical projects, sane code reviews, or just a good chat about software (or coffee vs. tea), feel free to ping me. I’m here to learn, share, and maybe make the occasional cat meme. 🐱
-```
