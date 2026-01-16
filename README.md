@@ -31,8 +31,8 @@ I focus on **performance, simplicity, and scalability**, not hype-driven tech.
 
 ### 🔷 notable projects
 
-* **AI Video Captioning (Browser-only)** — Video captions generated fully on-device using CPU/GPU (no uploads).
-* **Telegram Bots** — Production bots serving 2k+ users with 95% satisfaction.
+* **ai-cap** — Video captions generated fully on-device using CPU/GPU (no uploads).
+* **porla** — Production bots serving 2k+ users with 95% satisfaction.
 * **LMS Platform** — 250+ daily active students with optimized backend performance.
 
 ---
